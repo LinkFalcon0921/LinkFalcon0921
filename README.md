@@ -10,6 +10,14 @@ Hi, I'm LinkFalcon!
 	<a href="https://github.com/LinkFalcon0921" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
+	<br/>
+<a href="https://github.com/FlintCore0921" target="_self">
+	<img src="https://media.giphy.com/media/ANUHwkZstft0nLp6SK/giphy.gif" width="30">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Also%20known%20as%20FlintCore&center=true&width=380&height=45">
+		<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzgxbzBqcXFnaGtkdzg4N2wycnF5cGN1Y3c1eGNrbzMxcm8ybjM5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XU9uO6aZBAZ3eaICdp/giphy.gif" width="30">
+	</a>
+ 
+	
 </h1>
 <p align="center">
 	<a href="https://github.com/LinkFalcon0921">
