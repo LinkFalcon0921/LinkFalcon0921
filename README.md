@@ -39,7 +39,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
 </p>
 
-** I’m currently open for: An Intern or a new job opportunity as Backend:, Mobile📱 or Web Development. ** <!-- this is MY RESUME. -->
+**I’m currently open for: An Intern or a new job opportunity as Backend:, Mobile📱 or Web Development.** 
 <hr>
 
 ### Badges
